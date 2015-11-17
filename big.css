@@ -2,7 +2,7 @@ body {
 	font-family: "Lucida Grande", Lucida, Verdana, "Helvetica Neue", Helvetica, sans-serif;
 	background: #fefefe;
 	background-size: 100%;
-	color: #7f7f7f;
+	color: #2e2d29;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -16,20 +16,20 @@ h1, h2, h3, h4, h5, h6, h7, p {
 	display: inline !important;
 }
 
-/* Red */ h1 {
-	color: #f21c0f;
+/* Dark Red */ h1 {
+	color: #820000;
 }
 
-/* Orange */ h2 {
-	color: #f2790f;
+/* Black 80% */ h2 {
+	color: #585754;
 }
 
-/* Green */ h3 {
-	color: #a2bf39;
+/* Pantone: 3145 */ h3 {
+	color: #007C92;
 }
 
-/* Blue */ h4 {
-	color: #144673;
+/* Pantone: 334 */ h4 {
+	color: #009B76;
 }
 
 /* Gruber Blue */ h5 {
