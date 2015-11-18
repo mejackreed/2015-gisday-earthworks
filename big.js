@@ -3,7 +3,7 @@ window.onload = function() {
     if (!s) return;
 	function go(n) {
 		cur = n;
-		var idealTextSize = 14;
+		var idealTextSize = 16;
 		var i = Math.pow(1.618, 8)*idealTextSize;
 		var e = s[n];
 		for (var k = 0; k < s.length; k++) s[k].style.display = 'none';
